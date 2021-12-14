@@ -1,5 +1,5 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
+baseURL = 'https://mt-lampert.github.io/react-signup/'
+languageCode = 'de-de'
 title = 'React Signup Documentation'
 
 theme = "hugo-geekdoc"
