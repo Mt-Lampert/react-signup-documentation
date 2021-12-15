@@ -7,7 +7,8 @@ weight: 100
 
 Hier finden sich alle Berichte über dieses Projekt in "chronologisch absteigender" Reihenfolge. Das heißt: Die aktuellsten Berichte sind ganz oben, die älteren weiter unten.
 
-## 2021-12-15 &nbsp; 07:51: Einrichten der Doku-Seite
+##  Einrichten der Doku-Seite
+#### 2021-12-15 07:51:
 
 Ja, es ist mir gestern abend tatsächlich gelungen, Hauptprojekt und Doku-Projekt erfolgreich zusammen zu bringen. Nun sollte ich berichten, wie ich das geschafft habe (nach viel Try And Error):
 
@@ -47,6 +48,8 @@ Ja, es ist mir gestern abend tatsächlich gelungen, Hauptprojekt und Doku-Projek
 11. Das Ergebnis im Browser überprüfen
 12. Im Hauptprojekt den `DOKU`-Branch verlassen.
 
-## 2021-12-14 -- 20:23
+## Erste Erfolgsmeldung
+
+#### 2021-12-14 -- 20:23
 
 Es ist mir, glaube ich gelungen, Hauptprojekt und Doku-Projekt erfolgreich zusammen zu bringen. Macht mich sehr stolz und glücklich!
