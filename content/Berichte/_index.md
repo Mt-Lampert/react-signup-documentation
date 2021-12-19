@@ -7,6 +7,11 @@ weight: 100
 
 Hier finden sich alle Berichte über dieses Projekt in "chronologisch absteigender" Reihenfolge. Das heißt: Die aktuellsten Berichte sind ganz oben, die älteren weiter unten.
 
+## Doku-Seite automatisieren
+#### 2021-12-16 06:50:
+
+Ich habe mit Hilfe von Python `invoke` den Prozess automatisiert, neue Doku mit Hugo zu generieren und dann im Hauptprojekt hochzuladen. Das `shutils` package war dabei ausgesprochen nützlich und hilfreich.
+
 ##  Einrichten der Doku-Seite
 #### 2021-12-15 07:51:
 
