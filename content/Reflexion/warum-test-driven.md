@@ -1,7 +1,7 @@
 ---
 title: "Warum Test-Driven Development?"
 date: 2021-12-19T08:24:14+01:00
-draft: true
+draft: false
 ---
 
 #### 2021-12-19

@@ -1,7 +1,7 @@
 ---
 title: "UseState braucht UseEffect"
 date: 2021-12-19T08:18:59+01:00
-draft: true
+draft: false
 ---
 
 Beim Rumprobieren mit Ronas Version des Projektes kam es zu überraschenden Effekten: State-Variablen, die wir mit `setX()` upgedatet haben, hatten direkt nach dem Update immer noch ihren alten Wert:
