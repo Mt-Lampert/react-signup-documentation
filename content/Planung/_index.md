@@ -6,3 +6,5 @@ draft: false
 
 Hier findet alles statt, was es zur Planung zu sagen gibt.
 
+Die eigentliche Planung findet auf [dieser Seite](https://github.com/Mt-Lampert/react-signup/projects/1) statt, aber für die Erklärung dient diese Rubrik in der Dokumentation.
+
