@@ -23,5 +23,8 @@ disablePathToLower = true
     startLevel = 1
     endLevel = 9
 
+[params]
+    DateForm = "2006-01-02"
+
 [taxonomies]
    tag = "tags"
